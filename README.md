@@ -1,3 +1,3 @@
 # Momentum
 
-Learning Javescript!
+Momentum Clone coding
